@@ -7,10 +7,9 @@ modelo = joblib.load("modelos/modelo_logistico.pkl")
 st.title("Predicción de Diabetes")
 
 st.write("Nombre: Irianny Ardila")
-st.write("Código ISIL: TU_CODIGO")
+st.write("Código ISIL:6816")
 
-st.write("Link del COLAB:")
-st.write("PEGA_AQUI_TU_LINK")
+st.write("https://colab.research.google.com/drive/1eXs8_VSXKG60FxBS25mzNVGiunzDciAv?usp=sharing")
 
 pregnancies = st.number_input("Pregnancies")
 glucose = st.number_input("Glucose")
