@@ -1,0 +1,1 @@
+Crear una aplicación web en Streamlit para predecir diabetes usando un modelo de machine learning entrenado en Python,  La aplicación debe permitir ingresar datos médicos del paciente y mostrar si tiene diabetes o no. Además, incluir el nombre del estudiante, código ISIL y enlace al cuaderno de Google COLAB.
