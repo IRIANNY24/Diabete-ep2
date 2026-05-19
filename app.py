@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import numpy as np
 
-modelo = joblib.load("modelos/modelo_logistico.pkl")
+modelo = joblib.load("modelo_logistico.pkl")
 
 st.title("Predicción de Diabetes")
 
